@@ -16,7 +16,7 @@ This project focuses on Exploratory Data Analysis (EDA) rather than machine lear
 
 ## 🚀 Live Demo
 
-🔗 Live Application: [Add Your Streamlit Link Here]
+🔗 Live Application: https://gameinganalysis-p19.streamlit.app/
 
 ---
 
@@ -223,4 +223,14 @@ python developer |  data science | Ml  and Dl & Gen-ai Enthusiast
 
 ---
 
-## ⭐ If you found this project useful, please consider giving it a star.
+📌 Conclusion 
+
+This project demonstrates the power of Data Analysis and Data Visualization using Python. By leveraging Pandas, Matplotlib, and Seaborn, meaningful insights were extracted from gaming addiction data. The interactive Streamlit dashboard enables users to explore addiction patterns, gaming habits, sleep behavior, and stress levels through clear and engaging visualizations. The project highlights the importance of Exploratory Data Analysis (EDA) in understanding complex datasets and transforming raw data into valuable insights that support better decision-making.
+
+---
+
+⚠️ Disclaimer 
+
+This project is created for educational, learning, and portfolio purposes only. The analysis and visualizations are based on the provided dataset and are intended to demonstrate data analysis, visualization, and dashboard development skills using Python and Streamlit. The findings should not be considered medical, psychological, or professional advice regarding gaming addiction. All insights are data-driven observations and may not fully represent real-world behavior. Users should use this project solely for analytical and educational exploration.
+
+---
