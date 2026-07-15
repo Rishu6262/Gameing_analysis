@@ -62,7 +62,7 @@ This project was developed using powerful Python libraries and tools for data an
 
 ## 🔧 Development Tools
 
-* **Jupyter Notebook** – Used for Exploratory Data Analysis (EDA), data cleaning, and visualization experiments.
+* **Google colab Notebook** – Used for Exploratory Data Analysis (EDA), data cleaning, and visualization experiments.
 * **Git & GitHub** – Used for version control, project management, and code hosting.
 
 
