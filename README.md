@@ -2,15 +2,16 @@
 
 ## 📌 Project Overview
 
-The Gaming Addiction Data Analysis Dashboard is an interactive data analytics project developed using Python, Pandas, Matplotlib, Seaborn, and Streamlit.
+The **Gaming Addiction Data Analysis Dashboard** is an interactive **Data Analysis** project developed using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and **Streamlit**. The project is designed to explore gaming behavior, identify addiction-related patterns, and transform raw data into meaningful insights through comprehensive **Exploratory Data Analysis (EDA)** and interactive visualizations.
 
-The primary objective of this project is to explore gaming behavior patterns, analyze addiction-related factors, and generate meaningful insights through data visualization techniques.
+The dashboard analyzes various factors such as **daily gaming hours, sleep duration, stress levels, age, gender, gaming platform, game genre, academic or work performance, and demographic information** to better understand the relationship between gaming habits and addiction. Through statistical analysis and visual storytelling, users can identify trends, correlations, and behavioral patterns that may contribute to excessive gaming.
 
-This project focuses on Exploratory Data Analysis (EDA) rather than machine learning model training. Interactive visualizations help understand how gaming habits, sleep patterns, stress levels, and demographic factors relate to gaming addiction.
+Unlike predictive Machine Learning projects, this dashboard focuses entirely on **data exploration and visualization**, enabling users to gain valuable insights without building predictive models. Interactive charts, graphs, and summary statistics make complex datasets easier to understand and support data-driven decision-making.
 
----
+### ✨ Key Highlight
 
-✨ Special Feature: This project demonstrates the power of Python-based Data Visualization, where insights are discovered through interactive charts and statistical analysis for data analysis using python and most powerful library.
+This project demonstrates the power of Python's data analysis ecosystem by combining **Pandas** for data manipulation, **NumPy** for numerical computations, **Matplotlib** and **Seaborn** for advanced visualizations, and **Streamlit** for creating an interactive dashboard. It showcases how effective data visualization can reveal hidden patterns, support informed decisions, and provide a deeper understanding of gaming addiction through intuitive and engaging analytics.
+
 
 ---
 
