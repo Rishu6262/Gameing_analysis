@@ -21,32 +21,50 @@ This project demonstrates the power of Python's data analysis ecosystem by combi
 
 ---
 
-## 🎯 Project Objectives
+# 🎯 Project Objectives
 
-* Analyze gaming addiction patterns among users.
-* Understand the relationship between gaming habits and addiction.
-* Explore demographic trends among gamers.
-* Identify factors influencing addiction severity.
-* Create an interactive dashboard for data exploration.
+The primary objective of this project is to perform comprehensive **Exploratory Data Analysis (EDA)** on gaming addiction data and uncover meaningful insights into gaming behavior, lifestyle habits, and addiction-related factors. The dashboard is designed to help users explore data interactively and understand patterns through visual analytics.
+
+The key objectives of this project are:
+
+* 🎮 Analyze gaming addiction patterns across different groups of users.
+* 📊 Identify the relationship between gaming habits and addiction severity.
+* 🧑‍🤝‍🧑 Explore demographic trends such as age, gender, and occupation among gamers.
+* 😴 Study the impact of lifestyle factors, including sleep duration, stress levels, and daily gaming hours.
+* 📈 Discover correlations between gaming behavior and addiction-related indicators using statistical analysis.
+* 📉 Generate meaningful insights through interactive charts and visualizations.
+* 🌐 Build an interactive Streamlit dashboard for real-time data exploration and analysis.
+* 💡 Demonstrate the practical application of Python-based data visualization techniques for solving real-world analytical problems.
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-### Programming Language
+This project was developed using powerful Python libraries and tools for data analysis, visualization, and interactive dashboard development.
 
-* Python
+## 💻 Programming Language
 
-### Libraries
+* **Python** – The primary programming language used for data analysis, visualization, and dashboard development.
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+## 📊 Data Analysis & Manipulation
 
-### Dashboard Framework
+* **Pandas** – Used for data loading, cleaning, transformation, filtering, and exploratory analysis.
+* **NumPy** – Provides efficient numerical computations and supports statistical operations on large datasets.
 
-* Streamlit
+## 📈 Data Visualization
+
+* **Matplotlib** – Creates informative charts and graphs to visualize gaming behavior and trends.
+* **Seaborn** – Generates advanced statistical visualizations such as heatmaps, distribution plots, count plots, box plots, and correlation analysis.
+
+## 🌐 Dashboard Framework
+
+* **Streamlit** – Builds an interactive and user-friendly web dashboard for exploring gaming addiction data in real time.
+
+## 🔧 Development Tools
+
+* **Jupyter Notebook** – Used for Exploratory Data Analysis (EDA), data cleaning, and visualization experiments.
+* **Git & GitHub** – Used for version control, project management, and code hosting.
+
 
 ---
 
