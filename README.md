@@ -253,13 +253,26 @@ This project enhanced my ability to transform complex datasets into interactive 
 
 ---
 
-## 🔮 Future Improvements
+# 🔮 Future Improvements
 
-* Add Plotly Interactive Visualizations
-* Advanced Dashboard Filters
-* Real-Time Analytics
-* Geographical Analysis
-* Machine Learning-Based Prediction System
+Although the current dashboard provides comprehensive data analysis and interactive visualizations, several enhancements can further improve its functionality, user experience, and analytical capabilities.
+
+### Planned Enhancements
+
+* 📊 Integrate **Plotly** and **Altair** to create highly interactive and dynamic visualizations.
+* 🎛️ Add advanced dashboard filters for age, gender, gaming platform, game genre, addiction severity, and demographic categories.
+* ⚡ Enable **real-time data analysis** by connecting the dashboard to live or continuously updated datasets.
+* 🗺️ Incorporate **geographical analysis** using interactive maps to visualize gaming addiction trends across different countries, states, or regions.
+* 🤖 Develop a **Machine Learning-based prediction system** to estimate gaming addiction risk based on user behavior and lifestyle factors.
+* 📈 Build advanced analytical dashboards featuring KPI cards, trend analysis, and performance summaries.
+* 📑 Generate downloadable reports in **PDF**, **Excel**, and **CSV** formats for easier sharing and documentation.
+* 🔍 Implement advanced search and filtering capabilities to improve dataset exploration.
+* 📱 Optimize the dashboard for mobile devices and tablets to ensure a responsive user experience across different platforms.
+* ☁️ Deploy the application on cloud platforms such as **Streamlit Community Cloud**, **Render**, or **Microsoft Azure** for improved accessibility and scalability.
+* 🔐 Introduce user authentication and personalized dashboards to provide a secure and customized analytics experience.
+* 🌍 Support multilingual interfaces to make the dashboard accessible to users from different regions and language backgrounds.
+
+These future enhancements will transform the project from an exploratory data analysis dashboard into a comprehensive, scalable, and intelligent analytics platform capable of supporting research, education, and data-driven decision-making.
 
 ---
 
