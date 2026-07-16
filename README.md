@@ -145,36 +145,106 @@ Categorical addiction level:
 
 ---
 
-## 📈 Dashboard Features
+# 📈 Dashboard Features
 
-### Interactive Filters
+The **Gaming Addiction Data Analysis Dashboard** provides a clean, interactive, and user-friendly interface that enables users to explore gaming addiction data through dynamic filters, insightful visualizations, and statistical summaries. The dashboard is designed to simplify data exploration and help users gain meaningful insights with minimal effort.
 
-Users can filter data dynamically.
+---
 
-### KPI Cards
+## 🎛️ Interactive Filters
 
-Displays:
+The dashboard includes dynamic filtering options that allow users to customize the displayed data based on different criteria, making analysis more flexible and personalized.
 
-* Total Users
-* Average Addiction Score
-* Average Sleep Hours
-* Average Daily Playtime
+Users can filter data using:
 
-### Visual Analytics
+* 👤 Age Group
+* 🚻 Gender
+* 🎮 Gaming Platform
+* 🕹️ Game Genre
+* 📈 Addiction Severity
+* 🌍 Demographic Categories
 
-* Histograms
-* Countplots
-* Scatterplots
-* Boxplots
-* Correlation Heatmap
+These filters update all visualizations and statistics in real time, providing an interactive data exploration experience.
 
-### Dataset Preview
+---
 
-Interactive data table for exploration.
+## 📊 KPI Cards
 
-### Dataset Download
+The dashboard displays key performance indicators (KPIs) that provide a quick overview of the dataset.
 
-Users can download the dataset directly from the dashboard.
+### Dashboard Metrics
+
+* 👥 Total Users
+* 🎮 Average Daily Gaming Hours
+* 📈 Average Addiction Score
+* 😴 Average Sleep Duration
+* 😓 Average Stress Level
+* 🏆 Most Popular Gaming Platform
+* 🎯 Most Played Game Genre
+
+These KPI cards help users understand the overall characteristics of the dataset at a glance.
+
+---
+
+## 📉 Interactive Visual Analytics
+
+A variety of visualizations are included to uncover patterns, relationships, and trends within the gaming addiction dataset.
+
+### Available Charts
+
+* 📊 Bar Charts
+* 📈 Histograms
+* 📦 Box Plots
+* 🔵 Scatter Plots
+* 📉 Line Charts
+* 🥧 Pie Charts
+* 🔥 Correlation Heatmap
+* 📋 Count Plots
+* 📐 Distribution Plots
+
+These visualizations enable users to analyze gaming behavior, demographic trends, sleep patterns, stress levels, and addiction severity effectively.
+
+---
+
+## 📄 Dataset Preview
+
+The dashboard provides an interactive data table where users can:
+
+* Browse the complete dataset
+* Search for specific records
+* Explore feature values
+* Understand dataset structure
+* Verify cleaned data before analysis
+
+---
+
+## 📥 Dataset Download
+
+Users can download the processed dataset directly from the dashboard for further analysis or research.
+
+Supported download formats include:
+
+* 📄 CSV
+* 📊 Excel *(optional future enhancement)*
+
+This feature makes it convenient to reuse the analyzed data in external tools such as **Microsoft Excel**, **Power BI**, or **Python**.
+
+---
+
+## ⚡ Responsive & User-Friendly Interface
+
+The dashboard is designed with simplicity and usability in mind.
+
+Key interface features include:
+
+* 🌐 Interactive Streamlit Web Application
+* ⚡ Fast Data Loading
+* 📱 Responsive Layout
+* 🎨 Clean and Modern User Interface
+* 🖱️ Easy Navigation
+* 📊 Real-Time Chart Updates
+
+Overall, the dashboard offers an engaging and interactive environment for exploring gaming addiction data, making complex analytical insights accessible to students, researchers, educators, and data enthusiasts.
 
 ---
 
