@@ -10,7 +10,11 @@ Unlike predictive Machine Learning projects, this dashboard focuses entirely on 
 
 ### ✨ Key Highlight
 
-This project demonstrates the power of Python's data analysis ecosystem by combining **Pandas** for data manipulation, **NumPy** for numerical computations, **Matplotlib** and **Seaborn** for advanced visualizations, and **Streamlit** for creating an interactive dashboard. It showcases how effective data visualization can reveal hidden patterns, support informed decisions, and provide a deeper understanding of gaming addiction through intuitive and engaging analytics.
+This project highlights the capabilities of Python's powerful **Data Analysis** and **Data Visualization** ecosystem by integrating **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Streamlit** into a single interactive analytics dashboard. Instead of focusing on predictive modeling, the project emphasizes the importance of **Exploratory Data Analysis (EDA)** to uncover meaningful patterns, trends, and relationships within gaming addiction data.
+
+Through dynamic visualizations, statistical analysis, and an intuitive dashboard interface, users can explore how factors such as **daily gaming hours, sleep duration, stress levels, demographic characteristics, gaming platforms, and game genres** influence gaming addiction. The project demonstrates how raw data can be transformed into actionable insights that support informed decision-making, research, and behavioral analysis.
+
+By combining interactive analytics with effective visual storytelling, this dashboard showcases real-world data analysis techniques and serves as a practical example of building professional analytics applications using Python. It reflects the essential skills required in **Data Analytics**, **Business Intelligence**, and **Data Science**, making it a valuable portfolio project for aspiring data professionals.
 
 
 ---
