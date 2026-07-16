@@ -27,7 +27,20 @@ By combining interactive analytics with effective visual storytelling, this dash
 
 # 🎯 Project Objectives
 
-The primary objective of this project is to perform comprehensive **Exploratory Data Analysis (EDA)** on gaming addiction data and uncover meaningful insights into gaming behavior, lifestyle habits, and addiction-related factors. The dashboard is designed to help users explore data interactively and understand patterns through visual analytics.
+The primary objective of this project is to perform comprehensive **Exploratory Data Analysis (EDA)** on a gaming addiction dataset to uncover meaningful patterns, trends, and behavioral insights related to gaming habits. By leveraging Python's powerful data analysis and visualization libraries, the project aims to transform raw data into interactive visualizations that support better understanding and data-driven decision-making. The dashboard enables users to explore the dataset dynamically, identify correlations between various factors, and gain valuable insights into gaming addiction without relying on predictive machine learning models.
+
+The key objectives of this project are:
+
+* 🎮 Analyze gaming addiction patterns across different groups of users.
+* 📊 Explore the relationship between gaming habits and addiction severity.
+* 😴 Examine the impact of lifestyle factors such as sleep duration, stress levels, and daily gaming hours.
+* 👥 Study demographic characteristics including age, gender, occupation, gaming platform, and game genre.
+* 📈 Perform comprehensive Exploratory Data Analysis (EDA) using statistical methods and interactive visualizations.
+* 🔍 Identify hidden trends, correlations, and behavioral patterns within the dataset.
+* 📉 Create insightful charts and dashboards to simplify complex data for better interpretation.
+* 🌐 Develop an interactive Streamlit dashboard that enables real-time data exploration and analysis.
+* 💡 Demonstrate the practical application of Python-based data analytics and visualization techniques in solving real-world analytical problems.
+
 
 The key objectives of this project are:
 
